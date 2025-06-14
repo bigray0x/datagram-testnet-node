@@ -9,7 +9,7 @@ Datagram is a real-time Hyperfabric DePIN powering the future of connected intel
 - Helps preserve battery life.
 - VPS will give much reliable uptime.
 
-# sign up for the Testnet [Here](https://dashboard.datagram.network?ref=119308891)
+### sign up for the Testnet [Here](https://dashboard.datagram.network?ref=119308891)
 - copy your ```API key``` and save it.
 - key is in ```Wallet > Licenses > Key```
 

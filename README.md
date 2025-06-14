@@ -46,6 +46,8 @@ screen -S datagram
 
 - Run the node :
 
+- replace "YOUR_API_KEY" with your actual API key.
+
 ```
 datagram-cli run -- -key YOUR_API_KEY
 ```
